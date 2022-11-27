@@ -3,4 +3,4 @@
 ## [Основная часть работы в google colab](https://colab.research.google.com/drive/1t4w27XhR3qSJ25G13S88y68R2_zpcBM5?usp=sharing)
 ## Проверка чтений, отчёты из из MultiQC
 Отчеты bp FastQC по каждому из образцов находятся в папке reports
-![]
+![multiqc_general_statistics](screenshots/multiqc_general_statistics.png)
